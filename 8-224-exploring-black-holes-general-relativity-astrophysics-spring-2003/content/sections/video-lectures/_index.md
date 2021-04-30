@@ -1,0 +1,15 @@
+---
+course_id: 8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003
+is_media_gallery: true
+layout: course_section
+menu:
+  leftnav:
+    identifier: 7b50a572af9812cc19dad997cf1b40f6
+    name: Video Lectures
+    weight: 30
+title: Video Lectures
+type: course
+uid: 7b50a572af9812cc19dad997cf1b40f6
+
+---
+{{< video-gallery-item href="/sections/video-lectures/1-introduction-to-the-class" section="Video Lectures" title="1: Introduction to the Class" description="Introduction to the Class Lecturer: Edmund Bertschinger" thumbnail="https://img.youtube.com/vi/bFGiQEEvh18/default.jpg" >}} {{< video-gallery-item href="/sections/video-lectures/2-the-universe-questions-you-were-afraid-to-ask" section="Video Lectures" title="2: The Universe: Questions You Were Afraid to Ask" description="2: The Universe: Questions You Were Afraid to Ask Lecturers: Edwin Taylor and Kristin Burgess Questions Asked by Students in the Second Seminar ( PDF) Courtesy of Kristin Burgess. 4: Global Positioning System - No video Lecturer: Thomas Herring Slides ( PDF) Courtesy of Thomas Herring." thumbnail="https://img.youtube.com/vi/SEcVf93k0ZE/default.jpg" >}} {{< video-gallery-item href="/sections/video-lectures/5-einsteins-field-equations" section="Video Lectures" title="5: Einsteins Field Equations" description="5: Einsteins Field Equations Lecturer: Edmund Bertschinger 6: Tracing Einsteins Development of the Special Relativity Theory - No video Lecturer: Gerald Holton Einsteins SR Paper: First Three Pages of Einsteins Original 1905 Paper on Special Relativity. 7: Supermassive Black Hole at the Center of Our Galaxy --Sagittarius A* - No video Lecturer: Frederick K. Baganoff Slides ( PDF - 1.9 MB) Courtesy of Frederick Baganoff." thumbnail="https://img.youtube.com/vi/8MWNs7Wfk84/default.jpg" >}} {{< video-gallery-item href="/sections/video-lectures/8-x-ray-binaries-and-the-search-for-black-holes" section="Video Lectures" title="8: X-Ray Binaries and the Search for Black Holes" description="8: X-Ray Binaries and the Search for Black Holes Lecturer: Jeffrey McClintock Video courtesy of Jeffrey McClintock." thumbnail="https://img.youtube.com/vi/mVqLF6FU1-o/default.jpg" >}} {{< video-gallery-item href="/sections/video-lectures/10-the-universe-and-three-examples" section="Video Lectures" title="10: The Universe and Three Examples" description="10: The Universe and Three Examples Lecturer: Alan Guth Slides ( PDF - 1.9 MB) 12: LIGO: Detecting Gravitational Waves - No video Lecturer: Nergis Mavalvala Slides ( PPT)" thumbnail="https://img.youtube.com/vi/-fD51fZvZH8/default.jpg" >}} {{< video-gallery-item href="/sections/video-lectures/13-cosmic-structure-formation-from-inflation-to-galaxies" section="Video Lectures" title="13: Cosmic Structure Formation; From Inflation to Galaxies" description="13: Cosmic Structure Formation; From Inflation to Galaxies Lecturer: Edmund Bertschinge Slides ( HTML)" thumbnail="https://img.youtube.com/vi/mYaHarsAF5w/default.jpg" >}}
